@@ -1,3 +1,3 @@
 # SMN_Portfolio
 
-Compilations of my projects, publications and patents
+Compilation of my projects, publications and patents
